@@ -5,7 +5,10 @@ A standalone scientific calculator application developed using **Core Java and J
 The project focuses on implementing the calculator's core processing logic using fundamental Java concepts while using Swing only for the graphical user interface.
 
 ---
+## Application Preview
 
+![Scientific Calculator](CalculatorDemo1.jpg)
+![Scientific Calculator](CalculatorDemo1result.jpg)
 ## Features
 
 - Basic arithmetic operations
